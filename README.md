@@ -1,1 +1,1 @@
-# Crypto (bitcoin) $#U+1FA99;
+# Crypto (bitcoin) 	&#129689;
